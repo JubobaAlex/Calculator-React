@@ -1,0 +1,74 @@
+.number {
+    color: white;
+    font-size: 45px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 50px;
+    background-color: rgb(56, 54, 54);
+    border: 1px solid rgb(56, 54, 54);
+}
+.numbers {
+   
+     text-align: center;
+     
+}
+.main {
+    align-items: center;
+    text-align: center;
+}
+.operators {
+    text-align: center;
+}
+.operator {
+    color: white;
+    font-size: 45px;
+    width: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    background-color: rgb(56, 54, 54);
+    border: 1px solid rgb(56, 54, 54);
+}
+
+.ravnos {
+    text-align: center;
+}
+.ravno {
+    color: white;
+    font-size: 45px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    background-color: rgb(56, 54, 54);
+    border: 1px solid rgb(56, 54, 54);
+}
+.result {
+    border-bottom: 0.5px solid black;
+    border-radius: 10px;
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(82, 80, 80);
+    font-family: Arial;
+}
+
+.ravno:hover {
+    color: white;
+    background-color: rgb(32, 120, 178);
+}
+.number:hover{
+    color: white;
+    background-color: rgb(32, 120, 178);
+}
+
+.operator:hover{
+    color: white;
+    background-color: rgb(32, 120, 178);
+}
